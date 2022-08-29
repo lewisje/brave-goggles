@@ -356,8 +356,11 @@ $downrank=4,site=bearingdrift.com
 /r/uncensorednews/$downrank=3,site=reddit.com
 /r/libertarian/$downrank=3,site=reddit.com
 /r/conservative/$downrank=3,site=reddit.com
-/r/The_Donald/$downrank=3,site=reddit.com
-/r/Conservative/$downrank=3,site=reddit.com
+/r/AskTrumpSupporters/$downrank=3,site=reddit.com
+/r/prolife/$downrank=3,site=reddit.com
+/r/Republican/$downrank=3,site=reddit.com
+/r/benshapiro/$downrank=3,site=reddit.com
+/r/conservatives/$downrank=3,site=reddit.com
 /public/page/news-opinion-commentary.html^$downrank=3,site=online.wsj.com
 /opinion^$downrank=3,site=nypost.com
 /insiders^$downrank=3,site=newsmax.com
