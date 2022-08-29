@@ -1,7 +1,7 @@
-! name: News from the Left
-! description: Rank results to boost content from sources with an AllSides Media Bias Rating™ of Left or Lean Left and downrank content with a rating of Right or Lean Right.
+! name: News from the Left (Amplified)
+! description: Rank results to boost content from sources with an AllSides Media Bias Rating™ of Left or Lean Left and downrank content with a rating of Right or Lean Right; this will be made private if AllSides accepts my pull request.
 ! public: true
-! author: AllSides.com
+! author: AllSides.com and James Edward Lewis II
 ! homepage: https://www.allsides.com/
 ! avatar: #2e64a0
 

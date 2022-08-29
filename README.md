@@ -1,7 +1,9 @@
 # Brave Goggles by AllSides.com
 
+These have been amplified from the originals and put into their own branch so they can be published on Brave Search with new names.
+
 * Left/Lean-left (beta)
 * Right/Lean-right (beta)
-* Center/Mixed (pending)
+* Center/Mixed (beta)
 
-_Last updated: Thu, 23 Jun 2022 19:40:37 GMT_
+_Last updated: Monday 29 August 2022 08:27:00 UTC_
